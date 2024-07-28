@@ -1,2 +1,1 @@
-# behzadwaseem.github.io
-Behzad Waseem's Personal Portfolio Website.
+# a personal portfolio created with React + Vite
